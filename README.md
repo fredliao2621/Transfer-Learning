@@ -1,5 +1,7 @@
 # Transfer-Learning
 Target: Identify the breed of dog by the image
+## Framework
+Tensorflow
 ## Dataset: Stanford_dogs
 Training data: 12000
 Testing data: 8580
