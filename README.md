@@ -2,6 +2,9 @@
 Target: Identify the breed of dog by the image
 ## Framework
 Tensorflow
+Keras
+## Model
+InceptionResNetV2
 ## Dataset: Stanford_dogs
 Training data: 12000
 
